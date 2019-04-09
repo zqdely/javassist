@@ -1,6 +1,8 @@
 Java bytecode engineering toolkit
 ### [Javassist version 3](http://www.javassist.org)
 
+字节码解析编译
+
 Copyright (C) 1999-2018 by Shigeru Chiba, All rights reserved.
 
 Javassist (JAVA programming ASSISTant) makes Java bytecode manipulation
